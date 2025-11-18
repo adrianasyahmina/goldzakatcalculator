@@ -24,6 +24,3 @@ This project is made for **ICT602 – Mobile Technology Assignment**.
 ✔ Share button (using `share_plus`)  
 ✔ Clean gold-themed UI  
 
-# NUR ADRIANA SYAHMINA BINTI AZHAR
-# 2023414836
-# CDCS2515A
